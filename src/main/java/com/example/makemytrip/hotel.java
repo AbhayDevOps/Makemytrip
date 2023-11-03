@@ -6,5 +6,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class hotel{
     @GetMapping("/hotel")
-    public String getData() {return "book your lavish hotel in the state of maharashtra specially in pune nagpur" ;}
+    public String getData() {return "book your oyo hotel in the state of maharashtra specially in pune nagpur" ;}
 }
